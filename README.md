@@ -1,5 +1,5 @@
 # Flutter Firebase Auth using Mobile number
-Read the blog on this here https://navoki.com/flutter-lottie-animation
+Read the blog on this here https://navoki.com/flutter-firebase_auth-using-mobile/
 
 <img src="https://github.com/theshivamlko/flutter_firebase-auth-using-mobile/blob/master/example.gif?raw=true"/>
 
